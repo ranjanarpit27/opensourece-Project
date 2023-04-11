@@ -1,0 +1,11 @@
+452	/img_drive9.E01/Windows/system32/config/SAM
+486	/img_drive9.E01/Windows/system32/config/RegBack/SAM
+10	/img_drive9.E01/Users/Admin/NTUSER.DAT
+98	/img_drive9.E01/Users/Default/NTUSER.DAT
+502	/img_drive9.E01/Windows/system32/config/systemprofile/ntuser.dat
+470	/img_drive9.E01/Windows/system32/config/SYSTEM
+495	/img_drive9.E01/Windows/system32/config/RegBack/SYSTEM
+464	/img_drive9.E01/Windows/system32/config/SOFTWARE
+492	/img_drive9.E01/Windows/system32/config/RegBack/SOFTWARE
+458	/img_drive9.E01/Windows/system32/config/SECURITY
+489	/img_drive9.E01/Windows/system32/config/RegBack/SECURITY

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2023/04/10 20:56:55 (IST)</CreatedDate>
+  <ModifiedDate>2023/04/10 20:56:56 (IST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.20.0</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.20.0</SavedByAutopsyVersion>
+  <Case>
+    <Name>open_source__project_20230410_205655</Name>
+    <DisplayName>open_source_ project</DisplayName>
+    <Number>001</Number>
+    <Examiner>Arpit Ranjan</Examiner>
+    <ExaminerPhone>7057236357</ExaminerPhone>
+    <ExaminerEmail>abc@gmail.com</ExaminerEmail>
+    <CaseNotes>project of open source </CaseNotes>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>

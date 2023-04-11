@@ -1,0 +1,2 @@
+Prefetch Directory is  C:\Users\ranja\AppData\Local\Temp\Autopsy\open_source__project_20230410_205655\Temp\RecentActivity\1-Autopsy_PF_DB.db3_0
+DB file is  E:\open_source_ project\ModuleOutput\prefetch\1-Autopsy_PF_DB.db3

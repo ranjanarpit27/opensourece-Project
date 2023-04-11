@@ -1,0 +1,78 @@
+2023-04-12 04:12:48.133 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2023-04-12 04:12:48.662 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: New Solr process PID: [11164]
+2023-04-12 04:12:52.74 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2023-04-12 04:12:52.958 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2023-04-12 04:12:52.969 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2023-04-12 04:12:52.969 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Local Solr SOLR8 server is already running
+2023-04-12 04:12:52.974 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2023-04-12 04:12:57.239 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
+INFO: Using Solr document queue size = 30
+2023-04-12 04:12:57.554 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.36.0.3 loaded in native mode
+2023-04-12 04:12:57.639 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened open_source_ project (open_source__project_20230410_205655) in E:\open_source_ project as the current case
+2023-04-12 04:12:57.64 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Retrieving images for case: autopsy.db...
+2023-04-12 04:12:57.642 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Opening all filesystems for image: drive9.E01...
+2023-04-12 04:12:58.038 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2023-04-12 04:12:59.268 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-12 04:13:00.109 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-12 04:13:00.581 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
+INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
+2023-04-12 04:16:09.814 org.sleuthkit.autopsy.report.ReportBranding getReportFooter
+INFO: Using default report branding for report footer
+2023-04-12 04:16:10.519 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Data Source Usage
+2023-04-12 04:16:10.521 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+WARNING: useDataTypeIcon: unhandled artifact type = Data Source Usage
+2023-04-12 04:16:10.522 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = EXIF Metadata
+2023-04-12 04:16:10.523 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Extension Mismatch Detected
+2023-04-12 04:16:10.524 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Installed Programs
+2023-04-12 04:16:10.526 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Keyword Hits
+2023-04-12 04:16:10.528 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Metadata
+2023-04-12 04:16:10.529 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Operating System Information
+2023-04-12 04:16:10.533 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Recent Documents
+2023-04-12 04:16:10.533 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Shell Bags
+2023-04-12 04:16:10.543 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Tagged Files
+2023-04-12 04:16:10.545 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Tagged Images
+2023-04-12 04:16:10.546 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Tagged Results
+2023-04-12 04:16:10.547 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = USB Device Attached
+2023-04-12 04:16:10.547 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = User Content Suspected
+2023-04-12 04:16:10.548 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Web History
+2023-04-12 04:19:10.911 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2023-04-12 04:19:10.941 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-12 04:19:10.943 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-12 04:20:31.716 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2023-04-12 04:20:31.772 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-04-12 04:20:31.775 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
